@@ -11,7 +11,7 @@ A helpful writing tool that makes for better reading. This app provides helpful 
 ## Run locally
 
 ```
-git clone https://github.com/spghtti/writely.git
+git clone https://github.com/asset-capital-decay/writely.git
 cd writely
 yarn install
 yarn start
